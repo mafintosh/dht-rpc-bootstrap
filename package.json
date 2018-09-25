@@ -4,7 +4,7 @@
   "description": "Easily spin up a dht-rpc bootstrap node from the command line.",
   "main": "index.js",
   "dependencies": {
-    "dht-rpc": "^1.0.1",
+    "dht-rpc": "^4.0.0",
     "minimist": "^1.2.0"
   },
   "devDependencies": {},
